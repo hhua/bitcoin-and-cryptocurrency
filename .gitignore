@@ -1,3 +1,10 @@
+# Customized Rule
+.DS_Store
+*/.idea
+.idea
+*.swp
+
+# Java
 *.class
 
 # Mobile Tools for Java (J2ME)
